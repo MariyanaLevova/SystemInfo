@@ -8,7 +8,7 @@ This app will display your system's platform
 Description
 ===========
 
-All ou have to do is: in the command line:
+All you have to do is: in the command line:
 
 sysinfo
 
