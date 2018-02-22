@@ -3,17 +3,13 @@ systeminfo
 ==========
 
 
-Add a short description here!
-
+This app will display your system's platform
 
 Description
 ===========
 
-A longer description of your project goes here...
+All ou have to do is: in the command line:
+
+sysinfo
 
 
-Note
-====
-
-This project has been set up using PyScaffold 3.0.1. For details and usage
-information on PyScaffold see http://pyscaffold.org/.
